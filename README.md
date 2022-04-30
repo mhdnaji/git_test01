@@ -3,14 +3,9 @@ commit 01
 commit 02 branche main
 commit 03 branche main
 commit 04 branche main
-commit 09 branche main
-commit 10 branche main
-commit 11 branche main
-commit 15 branche main
-commit 16 branche main
-commit 17 branche main
-commit 18 branche main
-commit 19 branche main
-commit 20 brancheB
-commit 21 brancheB
-commit 22 brancheB
+commit 05 branche brancheA
+commit 06 branche brancheA
+commit 07 branche brancheA
+commit 12 branche brancheA
+commit 13 branche brancheA
+commit 14 branche brancheA
