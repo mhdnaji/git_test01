@@ -4,3 +4,4 @@ commit 02 branche main
 commit 03 branche main
 commit 04 branche main
 commit 05 branche brancheA
+commit 06 branche brancheA
