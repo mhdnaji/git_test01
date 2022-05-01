@@ -11,3 +11,5 @@ commit 16 branche main
 commit 17 branche main
 commit 18 branche main
 commit 19 branche main
+commit 20 brancheB
+commit 21 brancheB
